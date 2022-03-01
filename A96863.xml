@@ -1,0 +1,448 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The saints entrance into peace and rest by death: as it was held forth in a sermon / preached at the funerall of that honourable statesman, and ever to be valued father and lover of his country, Sir William Armyne baronet one of the members of the high court of Parliament: in the day when hee was buryed with his fathers, being honourably but mournfully attended from London where he dyed, to Lenton in Lincolnshire, where he was interred, in the ancient sepulchre of his ancestors, May 10. 1651. By Seth Wood preacher of the Gospel at Lenton.</title>
+            <author>Wood, Seth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96863</idno>
+            <idno type="STC">Wing W3406</idno>
+            <idno type="STC">Thomason E632_8</idno>
+            <idno type="STC">ESTC R206455</idno>
+            <idno type="EEBO-CITATION">99865612</idno>
+            <idno type="PROQUEST">99865612</idno>
+            <idno type="VID">165872</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96863)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165872)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 97:E632[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The saints entrance into peace and rest by death: as it was held forth in a sermon / preached at the funerall of that honourable statesman, and ever to be valued father and lover of his country, Sir William Armyne baronet one of the members of the high court of Parliament: in the day when hee was buryed with his fathers, being honourably but mournfully attended from London where he dyed, to Lenton in Lincolnshire, where he was interred, in the ancient sepulchre of his ancestors, May 10. 1651. By Seth Wood preacher of the Gospel at Lenton.</title>
+                  <author>Wood, Seth.</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Ibbitson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June. 12.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Armyne, William, --  Sir, 1593-1651.</term>
+               <term>Funeral sermons --  17th century.</term>
+               <term>Death --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165872:1" rendition="simple:additions"/>
+            <p>THE Saints Enterance into Peace and Reſt BY DEATH: As it was held forth in a SERMON Preached at the Funerall of that Honoura<g ref="char:EOLhyphen"/>ble Stateſman, and ever to be valued Father and Lover of his Country, <hi>Sir WILLIAM ARMYNE</hi> Baronet One of the Members of the High Court of PARLIAMENT.</p>
+            <p>In the day when hee was buryed with his Fa<g ref="char:EOLhyphen"/>thers, being honourably but mournfully attended from <hi>LONDON</hi> where he dyed, to <hi>Lenton</hi> in <hi>Lincolnſhire,</hi> where he was interred, in the Ancient Sepulchre of his Anceſtors, <hi>May</hi> 10. 1651.</p>
+            <p>
+               <hi>By</hi> SETH WOOD <hi>preacher of the Goſpel at</hi> Lenton</p>
+            <q>
+               <bibl>REVEL. 14. 13.</bibl> 
+               <hi>Bleſſed are the dead which dye in the Lord, for they reſt from their la<g ref="char:EOLhyphen"/>bors, and their workes follow them.</hi>
+            </q>
+            <p>
+               <hi>LONDON Printed for</hi> Robert Ibbitſon. 1651.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:165872:2"/>
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Joſeph Caryl:</signed>
+               <dateline>
+                  <date>3 <hi>June</hi> 1651.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:165872:2"/>
+            <head>
+               <hi>TO THE Honourable my very Noble Friend and Patron. S<hi rend="sup">r.</hi>
+               </hi> WILLIAM ARMYNE <hi>Baronet, one of the Members of the High Court of PARLIAMENT.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Never thought my ſelfe wor<g ref="char:EOLhyphen"/>thy to be the Author of any thing fit for the Preſſe, and but that your requeſt, with ſome others of your Family hath the force of an abſolute command, with me, <hi>I</hi> ſhould rather have ſuppreſſed this, then Publiſhed it; for I muſt confeſſe, if ever I was unfit to bring forth any thing for all the world to looke on, it was at this time, when I was ſo overwhelmed with aſtoniſhment,
+<pb facs="tcp:165872:3"/> and griefe for the Death of your dear Fa<g ref="char:EOLhyphen"/>ther, that I was not likely to come at any thing fit for ſo great a Service, in the midſt of ſuch a deale of lumber and confuſion of thoughts as then was with me. I never thought jingling wit proper for a Sermon, eſpecially a Funerall Sermon; lightcou<g ref="char:EOLhyphen"/>lored ſilken wit is not ſuitable to line mour<g ref="char:EOLhyphen"/>ning with; I deſire no more trimming for a Sermon then that beauty of ſpeech which <hi>Solomon</hi> mentions <hi>Prov.</hi> 25. 11. <hi>VVords fitly ſpoken, and in due ſeaſon,</hi> at which I doubt this diſcourſe hath not arrived, yet becauſe it came at your call, and was cal<g ref="char:EOLhyphen"/>culated for your ſervice, and the ſervice of your Noble Family and Kindred, be pleaſed to owne and patronize both it, and the Author, who is</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your very humble Servant. SETH WOOD.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:165872:3"/>
+            <head>The Saints enterance into Peace and Reſt by DEATH. A <hi>Sermon Preached at the Funerall of Sir</hi> WILLIAM ARMYNE <hi>Baronet.</hi>
+            </head>
+            <epigraph>
+               <bibl>ISAIAH 57. 2.</bibl>
+               <q>He ſhall enter into peace, they ſhall reſt in their beds, each one walk<g ref="char:EOLhyphen"/>ing in his <g ref="char:V">Ʋ</g>prightneſſe.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE Prophet <hi>Iſaiah</hi> the Author of this Prophecy is ſtiled by ſome the Prince of Prophets, or the Princely Prophet, and not unworthily, if we conſider theſe three particulars.</p>
+            <list>
+               <item>1 <hi>His Princely Parentage,</hi>
+               </item>
+               <item>2 <hi>His Princely Imployment.</hi>
+               </item>
+               <item>3 <hi>His Princely Stile.</hi>
+               </item>
+            </list>
+            <p n="1">1 <hi>His Princely Parentage,</hi> For all the Antients conclude, that he was of royall extraction, his father <hi>Amos</hi> being the brother of <hi>Azariah</hi> King of <hi>Judah,</hi> and this gave the more credit and ad<g ref="char:EOLhyphen"/>vantage to his Embaſſies, which were many and honourable. For</p>
+            <p n="2">2 <hi>His Imployment</hi> was <hi>Princely,</hi> being Prophet to five Kings, <hi>
+                  <g ref="char:V">Ʋ</g>zziah, Jotham, Ahaz, Hezekiah, Manaſſeth:</hi> The holy Writ mentions four of them, <hi>Iſaiah</hi> 1. 1. and it may be counted the laſt not worth the mentioning, becauſe as Hiſtorians ſay the Prophets ſuffered Martyrdome under him. He lived ſixty four years a Prophet, it was a long time for a Prophet to live under
+<pb n="2" facs="tcp:165872:4"/> five Kings of ſuch different tempers, eſpecially being ſo zealous a Prophet as he was, who lift up his voyce like a Trumpet; yet he lived to be Gods Trumpeter ſixty four years, to a perverſe people; and alarmed the Nations ſharpely in the name of the Lord, till at laſt he fell under <hi>Manaſſes</hi> Whip-ſaw, for under that Tyrant was he ſawne in ſunder as the Jewiſh Rabbys tel us.</p>
+            <p n="3">3 <hi>His Stile,</hi> and matter of his Embaſſage was <hi>Princely,</hi> none of the Prophets had ſo clear, and ſo much diſcovery of the Go<g ref="char:EOLhyphen"/>ſpel of Chriſt as he; ſome of his Chapters are all pure Goſpell: <hi>John</hi> among the Evangeliſts, and <hi>Iſaiah</hi> among the Prophets, breath moſt, and ſweeteſt of Chriſt; if you obſerve through his Propheſie, you ſhall finde ſuch lovely Metaphors; ſuch wel<g ref="char:EOLhyphen"/>couched phraſe, ſuch ſpicy breathings of the Goſpell and Kingdome of Chriſt, as will ſpeake his Stile Heroyicke. So that all the Prophets, were Gods Heraulds, and <hi>Iſaiah</hi> the Prince of Heraulds.</p>
+            <p>The words I have mentioned ſeem to be his ſorrowfull con<g ref="char:EOLhyphen"/>templations, upon the death of ſome good man, or ſome num<g ref="char:EOLhyphen"/>ber of good men, which were at that time taken away; for though he be obſerved to be the moſt conſolatory Prophet of all the reſt, yet <hi>Iſaiah</hi> himſelfe will write lamentations upon the departure of the righteous, as we muſt do this day.</p>
+            <p>It is not very improbable, that theſe were the Prophets medi<g ref="char:EOLhyphen"/>tations upon the death of that good King <hi>Hezekiah;</hi> for he li<g ref="char:EOLhyphen"/>ved to mourne twice for the death of that good man: Once, when he brought him the ſad meſſage of death, and knew no reverſement; and againe, when the renewed leaſe of his life for fifteen yeares was determined; or whether many other good men fell with <hi>Hezekiah,</hi> for ordinarily ſuch good fruit ripen and fall together: And it may be God was Arking the <hi>Noahs</hi> of that age, that he might bring the Flood of his wrath upon that ungodly generation, for ſo the Prophet plainly hints in the verſe before my Text, <hi>verſ.</hi> I:</p>
+            <p>Now the time when the Prophet declares this meſſage to the people, was when they were grown very wicked, both people and their guides, ſpirituall and temporall; as appeares in the latter end of the 56 chap. verſ. 9. At which verſe beſt Textuaries will have this 57 chapter begin, and ſo make it one intire
+<pb n="3" facs="tcp:165872:4"/> Section with the words of my Text.</p>
+            <p>Where you ſhall finde the people growne very lewd and pro<g ref="char:EOLhyphen"/>phane, and all upon the frolick humor of eating, and drinking, and making merry, verſe 12. of 56. chapter: and ſurely they thought the Prophet an unwelcome, if not an uncivill Meſſen<g ref="char:EOLhyphen"/>ger, to come in with his Deaths-Head, as if he meant to garniſh their well-furniſhed diſhes with dead mens bones and grave-wormes, when they were in no diſpoſition to hear ſuch Lectures: but for all their mirth, it is very ſad newes he tells them, and he muſt tell it them, <hi>the Righteous are taken away,</hi> &amp; the omen is worſt; evill is to come; God hath houſed his children in his heavenly <hi>Goſhen</hi> and let them looke for a ſtorme; the pillers of the houſe are taken away, &amp; the hand-writing upon the wall is, that their joviall Kingdome is departing from them, <hi>Evill is to come;</hi> and though they wil not conſider it, nor the death of the Righteous, yet God will, and provides reſt and peace for them; when they ſhall have anguiſh and diſquietneſſe: the Saints mourning ſhall be turned into peace, when their laughter ſhall be turned into mourning.</p>
+            <q>He ſhall enter into peace, &amp;c.</q>
+            <p>Interpreters vary much in the verſion of theſe words, having much adoe to deliver the originall of its genuine meaning in any other language; for the <hi>Hebrew</hi> words are often found to put on their ſenſe ſo curiouſly and ſubtilly, that it is much adoe to ſtrippe them to their naked ſignification in another tongue: but all agree in the ſubſtance, <hi>that peace and reſt are the iſſues of death to the Righteous.</hi>
+            </p>
+            <p>The firſt part of the verſe is very near the originall in our <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> rendering, as you read, <hi>He ſhall enter into peace, they ſhall reſt in their beds, or couches;</hi> for the latter part I ſhould rather incline to <hi>Marlerate</hi> and <hi>Oecolampadius,</hi> who render it, each one walking before God, than to <hi>Junius</hi> who renders it, each one walking in their uprightnes, as in the Text, and they may bee eaſily reconciled, for he that walkes before God, walkes in up<g ref="char:EOLhyphen"/>rightnes for ever.</p>
+            <p>The ſtrength of theſe words is a very full deſcription of the bleſſed eſtate of the Righteous after death, and becauſe it might be an abundant cordial to meet with all thoſe diſcouragements and contempts they found from wicked men, as ſuppoſing them
+<pb n="4" facs="tcp:165872:5"/> to periſh and bee taken away, and ſo cut off from all joy and comfort for ſoule and body: therefore the comfort is propor<g ref="char:EOLhyphen"/>tioned to both, here is peace for their ſoules, and reſt for their bodies. <hi>Hee ſhall enter into peace, viz.</hi> the righteous man; and <hi>they ſhall reſt in their beds, viz.</hi> the mercifull men, as in verſ. 1.</p>
+            <p>Now the peace muſt needs be ſomething above the <hi>reſt,</hi> be<g ref="char:EOLhyphen"/>cauſe the fruit of it is walking before God, which is the bea<g ref="char:EOLhyphen"/>tificall converſation of Believer before God for ever.</p>
+            <p>There are many ſmall branches in my Text which might be found bearing here and there an apple worth your taſting, but the principall bearers that are heavie laden with fruit are theſe two.</p>
+            <list>
+               <item>1. <hi>Death lets the Saints into ſoule-peace.</hi>
+               </item>
+               <item>2. <hi>Death puts the Saints outward man to reſt.</hi>
+               </item>
+            </list>
+            <p>Ile begin with the firſt of theſe obſervations.</p>
+            <p>1. <hi>That Death lets the Saints into ſoule-peace.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>1</label>
+            </p>
+            <p>Death is a darke entry, but it leads the Saints into glorious roomes; Death is a black cloud, but the Sun of Righteouſneſſe is behind it, and will ſhine through it, and conquer it.</p>
+            <p>I ſhall take leave, that I may make the beſt improvement of this truth for your advantage, to propound three particulars for further conſideration.</p>
+            <list>
+               <item>1 <hi>I ſhall ſhow the Nature of this Peace.</hi>
+               </item>
+               <item>2 <hi>I will lead you to the Fountain of this Peace.</hi>
+               </item>
+               <item>3 <hi>I ſhall give you the Sweet of it in ſome application.</hi>
+               </item>
+            </list>
+            <p>Firſt, for the <hi>Nature</hi> of it, and becauſe a cluſter of <hi>Canaans</hi> grapes, is the beſt demonſtration of the fruitfulneſſe of the land; and that Scripture phraſe beſt ſets forth Scripture things; I will give you two or three expreſſions of Scripture as a taſte of the fruite and peace of that good land.</p>
+            <p>This eſtate of peace to the ſouls of Saints is termed in Scrip<g ref="char:EOLhyphen"/>ture.</p>
+            <list>
+               <item>1 <hi>Abrahams boſome,</hi>
+               </item>
+               <item>2 <hi>Paradiſe.</hi>
+               </item>
+               <item>3 <hi>New Jeruſalem.</hi>
+               </item>
+               <item>4 <hi>The Lords Joy.</hi>
+               </item>
+            </list>
+            <p n="1">1 It is termed <hi>Abrahams boſome, Luke</hi> 16. 22. <hi>The Angels carryed Lazarus into Abrahams boſome.</hi> I will not contend whether this were a parable, or a reall ſtory; though it be but a parable, it
+<pb n="5" facs="tcp:165872:5"/> helpes us to thus much; <hi>That the Saints are hereby deſigned after death to a bleſſed lodging:</hi> for the boſome is the place where love lodges her children; and heaven is called <hi>Abrahams boſome,</hi> be<g ref="char:EOLhyphen"/>cauſe he was the father of the faithfull on earth; and as all the gathering of the faithfull was to his <hi>boſome</hi> on earth, ſo it ſhal be to him in heaven, and ſo to Chriſt: and that which is moſt obſervable is, that the Angells are the Maſters of Ceremonies to this bleſſed entertainment, and do waite on the Saints ſouls to their lodgings of peace.</p>
+            <p n="2">2 This Peace is termed <hi>Paradiſe; This night ſhalt thou be with me in Paradiſe,</hi> ſaith Chriſt; not that there is any ſuch thing in heaven as a carnal Paradiſe, and pleaſure, but that God would have us judge of our future happy eſtate, by the things we are apteſt to underſtand, Now Paradiſe on earth, was al created glo<g ref="char:EOLhyphen"/>ry in its virginity, before ſinne had committed a rape upon it; much more undefiled peace and glory, ſhall wee have with Chriſt; for in that paradiſe Chriſt will be the tree of life, and there the ſerpent ſhall never enter. Paradiſe was the gar<g ref="char:EOLhyphen"/>den of God, where his deſire was to the workes of his hands; and heaven is ſuch, where he delights and walkes with his chil<g ref="char:EOLhyphen"/>dren for ever, <hi>with me in Paradiſe,</hi> ſaith Chriſt.</p>
+            <p n="3">3 This eſtate of peace is called the <hi>new Jeruſalem, Revel.</hi> 21, and 22 chapters. The old <hi>Jeruſalem</hi> was a goodly pleaſant place, the deſire of the Nations was towards it, but this is <hi>Jeruſalem</hi> made new, <hi>come from heaven, verſ.</hi> 2. The Tabernacle of God with men, every foundation ſtone precious, and every gate a pearle, and at every gate an Angell; and the Lord Almighty, and the Lamb, are the Sun, Moon and Temple therein; there ſhall be no curſe in it, <hi>Mount Gerizeim, ſhall ſwallow up mount Eball;</hi> all tears ſhall there be wiped away; and no more death, nor ſorrow, nor crying, nor pain, nor night, nor ſhutting of gates, but will al keep open houſe for the righteous, to go in and out and walke before him; ſuch dwelling have all his Saints, as you may read, (and much more) in thoſe two forementioned chap<g ref="char:EOLhyphen"/>ters.</p>
+            <p n="4">4 This peacefull condition is termed, the <hi>Lords Joy,</hi> in <hi>Mat.</hi> 25. 21. <hi>Enter into the Lords joy;</hi> The Saints joy after their pilgri<g ref="char:EOLhyphen"/>mage and warfare is accompliſhed is all of a peece wich the Lords; <hi>I will father, that they be where I am, and the glory thou haſt</hi>
+               <pb n="6" facs="tcp:165872:6"/> 
+               <hi>given me, I have given them; that they may be one as we are one,</hi> Joh. 17. 21. Chriſt does by his children and favourites, as <hi>Ahaſhue<g ref="char:EOLhyphen"/>rus</hi> did by <hi>Mordecay,</hi> calls for the beſt robe, yea, his own ſignet and glory, and puts on them; he ſtrips himſelfe to cloath them, and thus ſhall it be done to the Saints whom Chriſt will honor. The <hi>Lords joy,</hi> me thinks is ſuch an emphaſis, if it were but the filings of his gold, or but the Lords leavings, or any part of the skirts of his glory, it were fare; but Chriſt takes his by the hand, and ſaith, come children goe with me, ye ſhall fare as I fare, and weare as I weare, and ſit where I ſit, and be as welcome as I am: <hi>David,</hi> in his humility, begged but a Por<g ref="char:EOLhyphen"/>ters place, that he might be a Door-keeper; but he ſhall be a Throne-holder in that glorious day: <hi>Thus when Chriſt ſhall ap<g ref="char:EOLhyphen"/>pear, we alſo ſhall appear with him in glory.</hi>
+            </p>
+            <p>I will multiply no more of thoſe expreſſions, whereby the Scripture doth aboundantly ſet forth the nature of this peace to us, but yet that I may put you to a full perſwaſion of the excellency of it, and ſo make it more deſirable to you, I will ſpeak a little to three particulars only, concerning the nature of this peace.</p>
+            <list>
+               <item>1 <hi>It is unparallel'd peace.</hi>
+               </item>
+               <item>2 <hi>It is uninterrupted peace.</hi>
+               </item>
+               <item>3 <hi>It is everlaſting peace.</hi>
+               </item>
+            </list>
+            <p n="1">1 It is <hi>unparallel'd peace;</hi> exceeding all other peace, the Saints have their ſhare of peace in this world, which is rich and ſweet, but nothing to this; that's peace in the earneſt, this peace in full payment; that's joy in the Lord, this is the Lords joy; that's peace in the Porch, this in the Bed-chamber; that's the joy of the friend of the Bride-groome, in hearing his voyce, this the joy of the Bride, in the Bride-groomes imbraces; that's a taſte of the rich wine of the Kingdome, this is the Conduits running wine in the Kingdome; that's peace a bottlefull as we need it, this is peace a River full, <hi>Revel.</hi> 22. that's peace in the valley of Mulberry trees, where the Saints dig wells, and God fills them with raine water to keep them alive, this peace in mount <hi>Zion</hi> in full ſtrength, and without any more travel for it; that's peace paſt underſtanding, this is peace fully felt, and underſtood.</p>
+            <p n="2">2 It is <hi>uninterrupted peace,</hi> all peace here is full of diſturbances,
+<pb n="7" facs="tcp:165872:6"/> and one bad creature or other breakes our ſweeteſt reſt, and peace; one malignant party or other will be violating our publicke and peculiar peace, ſo that we muſt fight for it, and ſtruggle for it if we will preſerve it; nay, ſome are forced to procure others to make their very lives a defence for their peace: in heaven there is no interruption; all our peace here, is but peace in the gariſon of peace, that we muſt fight for, by the good <hi>fight of faith,</hi> as in <hi>Phil.</hi> 4. 7. The peace of God ſhall gari<g ref="char:EOLhyphen"/>ſon your hearts, for ſo the word <hi>(keepe)</hi> ſignifies in the ori<g ref="char:EOLhyphen"/>ginall. Now though we count our ſelves ſafeſt in the Gariſon in time of Warre, yet it is ſubject to a thouſand feares and alarmes, and muſt be watcht and kept with great trouble; but this is peace in the pallace, where all curſes, and curſed ones are baniſhed for ever; <hi>without ſhall be dogs, Revel.</hi> 22. not a dog wags his tongue to diſturbe thy reſt there; not a <hi>Shimei</hi> comes to curſe at <hi>David</hi> there.</p>
+            <p n="3">3 It is <hi>everlaſting peace,</hi> peace without end, which is not to be had here, when we have the deareſt friends and relations in our boſomes, this breakes the joy, that we muſt part each one to their home, far diſtant from each other, and at laſt each one to their long home; but heaven is ſuch a happy place where all ſhall dwell together, and the Country is big enough for all, <hi>Lot</hi> and <hi>Abraham</hi> ſhall not need to contend for field roome, <hi>Lot</hi> ſhall lie in <hi>Abrahams</hi> boſome, and deſire no further compaſſe: To this purpoſe in 1 <hi>Theſ.</hi> 4. 17. then <hi>ſhall we ever be with the Lord,</hi> the good company ſhal never part, father and children ſhall keep houſe together, and dwel together to eternity, and <hi>in<g ref="char:EOLhyphen"/>joy pleaſure at his right hand for evermore,</hi> Pſa. 16. <hi>ult.</hi>
+            </p>
+            <p>So we come to the ſecond general head propounded, viz. <hi>To lead you to the Fountaine of this Peace:</hi> For it may well be asked by a <note place="margin">2. <hi>Gen.</hi>
+               </note> ſtranger, how comes the Saints to ſuch glorious apparell, and who made them ſo fine? they carryed no ſuch out of the world with them, for there the men of the world kept them poor and bare enough; nor could they find any ſuch with death and de<g ref="char:EOLhyphen"/>ſtruction in the grave: ſurely, it is the Lords doing, and the anſwer can no otherwiſe be made, but that it was the Lords pleaſure thus to beſtow them for Chriſts ſake.</p>
+            <p>The fountain of this peace is the Prince of peace, tis peace of the Maker, peace, from him that made peace for us by the
+<pb n="8" facs="tcp:165872:7"/> blood of the croſſe, he made a bloody way for himſelfe by his death, that he might make the Saints a milky path to heaven: Chriſt was our <hi>Sampſon,</hi> who ſlew the Lyon for his Bride, and brought her a hony comb, to ſuck out of his boſome; he, un<g ref="char:EOLhyphen"/>dertooke to be the death of death for us, and made good his undertaking, and led Death and Devils captive after his trium<g ref="char:EOLhyphen"/>phant Chariot, he made ſhew of them openly and ſings triumph over them in 1 <hi>Cor.</hi> 15. 55. yea, it behoved him by ſuffering death to enter into glory, and ſo to bring many ſons to glory, or elſe we muſt have wraſtled our ſelves with thoſe principalli<g ref="char:EOLhyphen"/>ties and powers which would ſurely have ruined us; but Chriſt made himſelfe our ſheild and interpoſed betwixt us and all the heat of the battle with ſin and death, and when he had conquer<g ref="char:EOLhyphen"/>ed all, hee brings his Spouſe to view the carnage and to looke upon thoſe terrible ones that would have ſlaine her, and thus he cheares her, <hi>be of good comfort, I have over-come the World.</hi>
+            </p>
+            <p>O kiſſe this love dear Saints as it paſſes by, for it was infinit! Thus I have ſhowed you the fountain out of which ſprings your peace, view it well and admire it; it is not unlikely <hi>Sampſons En<g ref="char:EOLhyphen"/>hakkor</hi> the well of him that groaned, that was a well in Jaw<g ref="char:EOLhyphen"/>bone, and this a well in Deaths-head.</p>
+            <p>Now to preſſe out a little the ſweet of this point to you by <note place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Gen.</note> ſome application, which was the third Generall premiſed.</p>
+            <p>Firſt, then here is abundant of conviction that death is not the <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>1</label> thing it is ordinarily taken for amongſt Saints, the Lion is not ſo terrible as he is painted, and indeed if we were but ſet right a little in point of apprehenſion, and could but ſet faith on worke, the ſweet of this truth would flow out apace, for we are like Children, more affraid then hurt.</p>
+            <p>Death to beleevers is like entring firſt into the water of him that ſwims, it is very chilling and cold at firſt entering, but af<g ref="char:EOLhyphen"/>terwards pleaſant and refreſhing; ſo to beleevers at the firſt ap<g ref="char:EOLhyphen"/>prehenſion of Death a ſhrugging feare ſeizes upon nature, and death looks like an Executioner, and his bagge of tools to mow and make a Grave, which ſeeme exceeding terrible; but after a ſober recollection of faith, and reading his Commiſſion and ſee<g ref="char:EOLhyphen"/>ing how hee is bound in with inſtructions by Chriſt that ſent him, the Saints can bid him welcome and ſit downe and do his office, and are carried as quietly in his bony armes to Heaven, as
+<pb n="9" facs="tcp:165872:7"/> in an Jvory-Chariot: Indeed Death to ſinners is juſtly called the King of Terrours, and he rules tyrannically and makes waſt in all their joyes when he enters with his ſithe and mowes downe their fleſh like graſſe, and brings the devil to rake after him, and throw them into the Oven of Gods Wrath; but the Lord Jeſus for Beleevers, hath depoſed this King of Terrour, and check't his tyranny, as we may read in that moſt excellent place, <hi>Heb.</hi> 2. 14, 15. The Lord Chriſt enters the liſt with Satan in our fleſh, and though the devil brings his kill-all with him, yet he deſtroyes them and bids the Children draw neer and touch it, and handle it, for there is not that danger in it they are afraid of; it was ever indeed an abhorrency to them before they believed, and they were in bondage all their lives for feare of it, as Child<g ref="char:EOLhyphen"/>ren are of an oft repeated ſcare; but Chriſt hath bound the bind<g ref="char:EOLhyphen"/>er, and led him that led into captivity captive; Death and the Devil ſpent themſelves ſo much in that laſt combate they had with our deare Saviour when for the laſt farewell of their pow<g ref="char:EOLhyphen"/>er and malice they fetcht ſuch a mighty blow that they broke both arme and ſword, and indeed it put our valiant Champion ſo far to it, that he fell with Death, but got up againe and left Death dead for ever, ſo that now Death hath no more domini<g ref="char:EOLhyphen"/>on over him nor us, through him, as in <hi>Rom.</hi> 6. 9. ſo that believe it Saints, the King of Terrour's dead, and ſhall play <hi>Rex</hi> no more amongſt you.</p>
+            <p>Then ſecondly, under covert of this perſwaſion, Ile ſtand and <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>23</label> ſhow the ſtrongeſt conſolation that can be imagined, both</p>
+            <q>
+               <hi>Over Death,</hi> and <hi>Over the Dead.</hi>
+            </q>
+            <p>Firſt, it is rich and ſtrong comfort over Death, the thing, that thou feareſt ſo much will prove advantage to thee, Chriſt is thy convey through all thine enemies quarters with a conſider<g ref="char:EOLhyphen"/>able body, and will ſecure thee and bring thee off with honour; rebuke thy weak feares. Oh thou ſaiſt if I were but paſt the bor<g ref="char:EOLhyphen"/>ders of death I ſhould doe well! ſure we are of little faith, that we cannot take Chriſts word for our ſecuritie, the Saints gone before have ſlighted, contemned, wiſhed for death, nay rejoyced in it like a Wedding day: Old <hi>Jacob</hi> dyes with ſuch compoſure of ſpirit, calls for his Children, bleſſes and kiſſes them, and ga<g ref="char:EOLhyphen"/>thers
+<pb n="10" facs="tcp:165872:8"/> up his feet into the bed and dies, and no more: <hi>Moſes,</hi> that morning the meſſenger of death comes, goes and views the Land of <hi>Canaan,</hi> and envies not them that ſhould enter into it, for hee was provided of a better, and ſo walkes up the hill and dies, and not a word of feare or diſcontent; and as Chriſt, the deliverer drew nearer it was counted nothing, nay beſt of all to dye, and therefore in the New-Teſtament, Death is termed</p>
+            <list>
+               <item>1. <hi>Flitting to a better houſe.</hi>
+               </item>
+               <item>2. <hi>Sowing for a Crop.</hi>
+               </item>
+               <item>3. <hi>Gaining and advantage.</hi>
+               </item>
+            </list>
+            <p>Firſt, Death is termed <hi>flitting,</hi> as in that excellent place of 2 <hi>Cor.</hi> 5. 1. when Death turns the Saints out of doors they are not to ſeeke of a better houſe, a houſe built and prepared and furniſhed at the coſt of Chriſt for us, as you may read in the 14. of <hi>John</hi> 2. <hi>I goe to prepare a place for you, and in my fathers houſe are many manſions, if not I would have told you,</hi> that you might have made your termes with your old Landlord the world, but I have provided for you: now who would be troubled to flit from a ſmoaky Cottage to a ſtately Pallace.</p>
+            <p>Secondly, Death is termed ſowing, as you may read <hi>John</hi> 12. 24. <hi>Except a Corne of Wheat fall into the ground and dye, it abideth alone, &amp;c.</hi> Now ſowing is all our hope for a Harveſt, the Coun<g ref="char:EOLhyphen"/>try-man is not affraid to caſt his very bread upon the waters, becauſe it will come up after many dayes, ſo ſhall the Saints af<g ref="char:EOLhyphen"/>ter falling into the ground by death, ariſe to everlaſting glory.</p>
+            <p>Thirdly, Death is termed gaine, in <hi>Phil:</hi> 1. 21. <hi>For me to dye is gaine;</hi> many feare to live by the loſſe, but me thinks none ſhould feare to dye for gaine, eſpecially ſuch conſiderable gaine as an incomprehenſible weight of glory.</p>
+            <p>But take but the point and me thinks none ſhould be affraid to enter into peace, how ſweet is peace to all men, and what hurt will Chriſts peace doe you? are you affraid of <hi>Abrahams</hi> boſome or of paradiſe? or what danger is there in this new <hi>Ieruſalem,</hi> or the Lords joy? Chriſt once ſaid to <hi>Peter</hi> in his fainting, <hi>fear not, it is I,</hi> ſo he ſtands upon the ſhore of death and ſaies to believers, <hi>feare not Children, it is I your Saviour, and nothing ſhall hurt you whilſt I am here,</hi> then Saints lift up your heads when death draws nigh, for then your redemption draws neer.</p>
+            <p>Here is alſo comfort in the next place over the dead, though
+<pb n="11" facs="tcp:165872:8"/> heavineſſe muſt needs be at parting with ſuch dear relations, and ſuch precious peices for uſe and ſervice as theſe now we mourne for; yet here ſhines out a bright beame through our cloud of mourning, <hi>He is entered into peace,</hi> and ſuch peace as if thou ſaw<g ref="char:EOLhyphen"/>eſt as perfectly as thou doeſt earthly things, and as we ſhall here<g ref="char:EOLhyphen"/>after doe heavenly, I dare ſay thou couldſt not find in thy heart to wiſh him here againe; when your Children goe from you to Wed or Trade, though you love their company well, yet you will not hinder their preferment but let them depart; ſo when Fa<g ref="char:EOLhyphen"/>ther, Child, or Friend, goes to glory, though our lives be lapt up in theirs, yet it were but harſh, nay abſolute unkindneſſe to wiſh them here againe in this wretched world, when our Savi<g ref="char:EOLhyphen"/>our wakened out of his ſleepe of death, and got him ready for the reſurrection, he left the linnens in the grave to wipe his Di<g ref="char:EOLhyphen"/>ſciples eyes and ſent them this Meſſage, <hi>that he was riſen to glory,</hi> and here is linnen for your eyes that weep over the grave of this indeed worthily to be lamented lover of you all, that <hi>Hee is entered into peace.</hi>
+            </p>
+            <p>And now paſſe we to the ſecond good turne that Death doth for the Saints, <hi>viz.</hi> brings reſt to the outward man.</p>
+            <p>2. <hi>That Death gets the Saints to bed—they ſhall reſt in their beds.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Obſer. </seg>2</label>
+            </p>
+            <p>Nature thinkes Death none of the handſomeſt undreſſers, but no matter if love makes the bed who gets thee unready, quiet reſt is the iſſue; now that which commends this reſt to us, are theſe five particulars.</p>
+            <list>
+               <item>1. <hi>It is ſuperlative reſt.</hi>
+               </item>
+               <item>2. <hi>It is univerſall reſt.</hi>
+               </item>
+               <item>3. <hi>It is Childrens reſt.</hi>
+               </item>
+               <item>4. <hi>It is ſweet reſt.</hi>
+               </item>
+               <item>5. <hi>It is reſt in hope.</hi>
+               </item>
+            </list>
+            <p>Firſt, <hi>It is ſuperlative reſt,</hi> 'tis none-ſuch; exceeding all earthly reſt, the Kings of the Earth take no ſuch; <hi>Job</hi> therefore ſpeaking of the deſirableneſſe of death for reſt ſaith, <hi>Job</hi> 3. 13, 14, 15. <hi>There had I been at reſt with Kings and Counſellors of the earth, which build deſolate places for themſelves, or with Princes that had gold and filled their houſes with ſilver.</hi> I had then had as good a houſe to ſleep in, as they that have ſo many that they let them lye deſo<g ref="char:EOLhyphen"/>late for want of time and leiſure to live in them, a Saint ſhall reſt like an Emperour in the grave, Gold and Silver cannot pur<g ref="char:EOLhyphen"/>chaſe ſuch reſt.</p>
+            <list>
+               <pb n="12" facs="tcp:165872:9"/>
+               <head>2 It is univerſall reſt,</head>
+               <item>1. <hi>From Vanitie.</hi>
+               </item>
+               <item>2. <hi>From Vexation.</hi>
+               </item>
+               <item>3. <hi>From Oppreſſion.</hi>
+               </item>
+            </list>
+            <p>Friſt, <hi>It is reſt from Vanitie,</hi> there ſhall neither be hunger nor cold nor nakedneſſe, there we ſhall ſtruggle no more with thoſe difficulties, alterations, viciſſitudes, which wil make a great King even <hi>Solomon,</hi> cry <hi>all is vanity.</hi>
+            </p>
+            <p>2 It is <hi>reſt from vexation,</hi> all our Comforts, here do not only fail us, but foole us, and baffle even our cheifeſt maſterpeeces, to deliver our ſelves from thoſe incumbrances, which attend our faireſt hopes; but in death there ſhall be no more paine, nor crying, O my bones, or my bowells, there ſhall be no more gout, nor ſtone, feavors, nor head-ach; death will be a perfect cure of all diſeaſes; therefore <hi>Job</hi> on this account ſeeks and hunts for the grave, as you read, <hi>Job</hi> 3. 20, 21. <hi>why is life given to the bitter in ſoule, which long for death and dig for it, as for hid treaſure.</hi>
+            </p>
+            <p>3 It is <hi>reſt from oppreſſion,</hi> there is no tyranny in the grave, nor arbitrary power, no prerogative Court kept there, but all at reſt; therefore <hi>Job</hi> in the 3. chap. verſ. 17. of his booke com<g ref="char:EOLhyphen"/>mends the ſtate of reſt in the grave. <hi>There the wicked ceaſe from troubling, there the priſoners reſt together, and hear not the voyce of the oppreſſor;</hi> there the Egyptian Taskemaſters ſhall cal Gods <hi>Iſrael</hi> to worke no more; there wil be no plundering, killing, nor deſtroying: the <hi>Italians</hi> have a Proverb of the dead man, <hi>That he is gone where the Tyrant cannot ſend a Purſevant for him,</hi> and it was a ve<g ref="char:EOLhyphen"/>ry ſavory ſpeech of that good old man Mr. <hi>Dod,</hi> in the begin<g ref="char:EOLhyphen"/>ning of theſe hurling times of war, when thoſe firſt born ſons of prey began to plunder, ſpoile and deſtroy the good of this land; <hi>Well,</hi> (ſaith he) <hi>I will go home and dye,</hi> being ſo worn down with age, and travel, that he continually waited for his change; and then he thought he ſhould be out of their reach.</p>
+            <p>3 The third particular, which commends this reſt, is, that it is <hi>childrens reſt,</hi> and this is indeed the beſt thats at the bot<g ref="char:EOLhyphen"/>tome of all, that the Saints are got to reſt as Gods children, he gives them reſt, as he gives his beloved reſt; <hi>Pſa.</hi> 127. death, gets ſinners to bed alſo, but wrath frights them with the viſions of their eternall night, and they wake in hell at the reſurrection; but the righteous reſt in Gods love, and in his lap; and then it
+<pb n="13" facs="tcp:165872:9"/> is alſo reſt to the children all together, and that is comfort; to you who were troubled, reſt with us, ſaith the Apoſtle <hi>Paul:</hi> 'tis reſt with the Apoſtles and Fathers, and all the Family toge<g ref="char:EOLhyphen"/>ther, the word which the Latines expreſſe the Hebrew word in my Text by, is <hi>cubile,</hi> which ſignifies, a Bee-hive, as well as a Couch, or Bed; ſo in that ſenſe the Saints reſt in their Bee-hives, altogether in their hony-houſes.</p>
+            <p>4 Fourthly, It is ſweet reſt becauſe it is <hi>after labour:</hi> all their worke is done, and they goe to bed, <hi>Job</hi> ſpeaking of the grave <hi>chap.</hi> 3, ſaith, <hi>There the weary be at reſt,</hi> and as <hi>Solomon</hi> ſaith of the labouring man, <hi>his ſleep is ſweet,</hi> eate he little or eate he much, ſo ſaith the Scripture of the Saints, <hi>Revel.</hi> 14. 13. <hi>Bleſſed are the dead that dye in the Lord,</hi> from <hi>henceforth they reſt from their labours, and their workes follow them;</hi> they are written up for bleſ<g ref="char:EOLhyphen"/>ſed in this regard, even with ſpeciall obſervation (yea, ſaith the ſpirit) that they may reſt from their labours from hence<g ref="char:EOLhyphen"/>forth, that is, they ſhall never labor more, when a labouring mans reſt is ſweeteſt, yet he muſt riſe at break of day and go to it again; but the Saints ſhall labour no more, thou ſhalt throw away thy workaday cloathes for ever, and put on thy garments of gladneſſe, thy glorious apparell, for there ſhall be no more ſoyling work after death; yet though they reſt from their la<g ref="char:EOLhyphen"/>bour, they ſhall not looſe their labour, nor their labours them, <hi>for their workes follow them:</hi> Chriſt will bring thy workes after thee, and perfume them with his odours: not that they ſhall be ſaved by their works; but as Mothers keep their childrens Sam<g ref="char:EOLhyphen"/>plers to ſhow hereafter their ingenuity, and willingnes to be do<g ref="char:EOLunhyphen"/>ing ſomething at their Parents command, ſo Chriſt hereafter wil delight to ſhow to his father the garments that his <hi>Dorc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'s</hi> mad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. And this brings us to the laſt commendation of this reſt. For,</p>
+            <p>5 Fiftly, It is reſt in <hi>hope,</hi> yea, in aſſurance, <hi>or elſe</hi> ſaith the Apoſtle <hi>we were of all men moſt miſerable;</hi> but death to the Saints is but a nap till reſurrection.</p>
+            <q>They ſhall reſt in their Couches.</q>
+            <p>A Travellers reſt is to refreſh him for his journey, who will not make his Inne his ſtanding quarters; ſo the grave, though it be a beleevers long-home, yet it is not his laſt home. It w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re well indeed for ſinners if they might ſleep on in death, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe no more, for their waking is their woe, becauſe in their <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n<g ref="char:EOLhyphen"/>ing
+<pb n="14" facs="tcp:165872:10"/> the reckoning is brought up: They muſt look to be a<g ref="char:EOLhyphen"/>larmed, and called up by the dreadful Trumpeters to execution; but then begins a Saint to make his rich returns of all his faith, and patience. When he ſhal riſe to meet his venture come home; when the old acquaintance of ſoule and body, ſhall meet and kiſſe each other, and become together an everlaſting bride to the Lambe. This was that which comforted Chriſt in his dark lodging of the grave, and <hi>David</hi> as his type, as you read in <hi>Acts</hi> 2. 25, 26, 27. <hi>My fleſh ſhall reſt in hope, that thou will not leave my ſoul in hell, nor ſuffer thy holy one to ſee corruption;</hi> where, by hell is meant the grave: And he injoyed the fruit of this hope, and was quick<g ref="char:EOLhyphen"/>ly brought forth of that priſon, and roſe the firſt fruits from the dead for his children, and carryes us all with him; for Chriſt is our <hi>primum mobile,</hi> and we are all rapt after the motion of him our firſt ſphear.</p>
+            <p>This truth thus opened, firſt takes you fitly by the hand and <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> leads you to the hill whence commeth your ſalvation, where you may fitly take a rich proſpect of all the large and far ſpread love of Chriſt, the fruit of whoſe labour and travel all this reſt and peace is; Thou ſeldome thinkeſt Chriſtian, what coſt and chymiſtry Chriſt was at to bring to thee ſuch ſweet, out of the ſtrong, and ſuch meat out of the eater; to draw ſuch ſweet and ſpicy oyle out of a deaths head; and to extract ſuch rich and pre<g ref="char:EOLhyphen"/>cious things out of duſt and aſhes: But <hi>it is he!</hi> tis he hath don it.</p>
+            <p>The Angel of God ſaid for comfort in one ſenſe <hi>he is riſen, he is not here;</hi> but if he had not been there, before he had riſen, <hi>viz</hi> in the grave, the bed had never been ſo ſoft and ſweet for us, but Chriſt took al the hard clots and ſtones out of the grave for us, he tooke the cold off it by firſt lodging there, yea he ſtuffed the grave with feathers and ſtrowed it with roſes, by his three nights lodging there, and then riſe to be our Uſher, and Aſ<g ref="char:EOLhyphen"/>ſuring Maſter for a good voyage at the reſurrection.</p>
+            <p>Then ſecondly, in the ſtrength and ſence of this love be com<g ref="char:EOLhyphen"/>forted againſt the fear of death, to the Saints it is but getting <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> to bed, and ſleeping a long ſleep, and a quiet ſweet one too, for a long winters night till reſurrection: when our Saviour had ſaid of <hi>Lazarus</hi> that he was dead, and yet that it was not <hi>death but ſleeping, Thomas</hi> the twin (for ſo <hi>Dydimus</hi> ſignifies) ſaith <hi>let us goe dye with him, Joh.</hi> 11. Many vary in their thoughts of the meaning of this place; but in my apprehenſion it is cleare,
+<pb n="15" facs="tcp:165872:10"/> that <hi>Thomas</hi> the timerous, for of all the reſt he was moſt fearfull, having heard our ſaviour weaken the ſtrength &amp; terror of death, and call it but ſleep, <hi>Thomas</hi> was content to dye alſo; It is eaſi<g ref="char:EOLhyphen"/>ly applied to our purpoſe, that Saints ſhould no more feare to dye then reſt in beds and ſleep, for though death do but ſome<g ref="char:EOLhyphen"/>what ruggedly rocke as to ſleep, yet if the rocking ſhake and be uneaſie, the reſt is ſweet and quiet, as this our deare and noble friend finds, who now ſleeps with his fathers, and enjoyes the precious things of the everlaſting hills, while poore we, muſt walk in the valley of the ſhaddow of death for a ſeaſon.</p>
+            <q>And now turne we from Death to the Dead.</q>
+            <p>And ſurely, but that wee muſt perfectly ſubmit to ſay every hard word after God, it were a very hard word indeed, to ſay that he is dead.</p>
+            <p>Methinks this honourable, but mournfull company looks like that goodly traine, which came up with old <hi>Jacob</hi> out of <hi>Egypt,</hi> in the day when they brought his body from <hi>Goſhen</hi> to <hi>Machpelah</hi> the Sepulchre of his Fathers to be buried; and me thinkes this place lookes like the Floore of <hi>Arnon,</hi> where they mourned with a very ſore lamentation, as you may read in the laſt Chapter of <hi>Geneſis,</hi> ſo that the Country people called it <hi>Abell Mizraim</hi> verſ. 11. which place as it properly ſuits with our poſture, ſo it juſti<g ref="char:EOLhyphen"/>fies great mourning for perſons ſignally uſefull to their people and ſerviceable to God, and it alſo ſhowes that it is not beſides the rule to ſet up memorialls of their worth and ſervice: a ſtep<g ref="char:EOLhyphen"/>ping-ſtone might ſerve at the head of ſuch a meane grave as mine, but ſure a pillar would be built upon ſuch a grave as his, as <hi>Jacob</hi> did on his beloved <hi>Rachells;</hi> and though all the book paſſe with blankes in the margine, yet ſuch a ſentence, as <hi>his life,</hi> muſt needs have a marginall note.</p>
+            <p>And here if I ſhould put off the Divine, and take up the Ora<g ref="char:EOLhyphen"/>tor, alas his worth would be above my Oratory! it were a taske fitter for ſome of thoſe old hony-mouth'd <hi>Romans,</hi> but yet hee would be <hi>ſuper rostra,</hi> above their ſtanding ſtooles, for he muſt be Chriſtian as well as Orator who underſtands or tells his worth, for his Chriſtianity were his beſt parts, which a Heathen Orator would leave behind.</p>
+            <p>If I ſhould adventure to make a rough draught of him, I ſhould never doe it as the life; yet ſeeing that Providence hath put the Penſill in my hand, Ile draw, and though it be nothing
+<pb n="16" facs="tcp:165872:11"/> ſo beautifull as the life, yet you ſhall ſay 'twas he, and the limb<g ref="char:EOLhyphen"/>ner meant well.</p>
+            <p>I will here enter one caution, that for the particular paſſages and ſpeeches which I have obſerved to paſſe from him, though I may not light upon ſo proper phraſe, as he did and could cloath them in, yet I ſhall give you the ſubſtance of them, as a draught of his ſpirit.</p>
+            <p>And now that I may put the ſtones of this pillar over his Grave into ſome forme and order, I will obſerve this rule, in ſpeaking to four particulars, <hi>viz.</hi> to ſhow what he was.</p>
+            <list>
+               <item>1. <hi>In his naturall capacity, as a man.</hi>
+               </item>
+               <item>2. <hi>In his ſpirituall capacity, as a Chriſtian.</hi>
+               </item>
+               <item>3. <hi>In his civill capacity, as a Stateſ-man.</hi>
+               </item>
+               <item>4. <hi>In his private capacity, as Ruler of his Family.</hi>
+               </item>
+            </list>
+            <p>Firſt, <hi>For his naturall capacity, as a man.</hi>
+            </p>
+            <p>I need ſay nothing to his Stirpe and Extraction, though very ancient &amp; honourable, for that were to enter into the province of another faculty of Herauldry, which attends this ſervice in the profeſſor of it.</p>
+            <p>Neither need I ſay much to Natures workemanſhip in him, you all know &amp; will long remember, that his perſon was love<g ref="char:EOLhyphen"/>ly, his body being a goodly Manſion for a gallant ſoul, &amp; he al<g ref="char:EOLhyphen"/>wayes kept it as became a Temple of the Holy Ghoſt.</p>
+            <p>As for his Intellectualls, they were above the ordinary ſize of men, his apprehenſion quick, and his judgement fixt; it is the de<g ref="char:EOLhyphen"/>fect of many a great wit, to have a better appetite then con<g ref="char:EOLhyphen"/>coction; but he was able with a ſure judgement to digeſt all he tooke in, he gave very great teſtimony of his abilitie this way, both at home and abroad, and they that knew him beſt, will ſay that he had an able and a nimble ſoule, being by his ſollid wiſe<g ref="char:EOLhyphen"/>dome, the conſtant Maſter of a cleare and ſmooth Fancy.</p>
+            <p>As to his converſation amongſt men, as a man, it was on every ſide and among all men deſirable and delightfull: It is ſaid of <hi>Ti<g ref="char:EOLhyphen"/>tus</hi> the <hi>Roman,</hi> that for his excellency this way, he was ſtiled, <hi>deli<g ref="char:EOLhyphen"/>ciae humani generis,</hi> the delight of mankind, and it is no vaine boaſt to ſay of the goodly comportment of this noble gentleman, that he was apleaſancy to all that knew him; his carriage was ſo juſt<g ref="char:EOLhyphen"/>ly contemper'd betwixt a kind of ſevere bravery, and an humble courteſie, that he was contentfull to all, grievous to none; in his
+<pb n="17" facs="tcp:165872:11"/> very countenance and preſence was both a checke to the pre<g ref="char:EOLhyphen"/>ſumptuous, and an incouragement to the meaneſt of wiſdomes children to draw near.</p>
+            <p>Thus I have ſaid a little to his <hi>naturall capacity, as a man,</hi> and I am confident, take him but thus far, had he been a <hi>Roman,</hi> and lived in thoſe dayes when they knew how to value gallantry to its worth, they would have counted him worth his weight in Gold.</p>
+            <p>But we will paſſe unto his better parts, this is but chaulke and charcoale to the lively colours his Chriſtianity laid upon this ground; we come therefore.</p>
+            <p>Secondly, <hi>To his ſpirituall capacity, as a Chriſtian.</hi>
+            </p>
+            <p>And as a faire foundation for a notable ſtructure in this kind, he had a father eminently vertuous and religious (as they that knew him very well report him) whoſe ſtudy was to make his ſon good as well as great, &amp; there was nothing wanting which ſo good a parents care, and love, could prompt to accompliſh this end, and the ſon quickly gave faire proofe that his ſoule was no barren ground to ſuch good ſeed; for what principles his parent taught him in the trade of his youth, hee quickly grew maſter of, and ſet up for himſelfe; that which made great part of the world know leſſe of his worth then was really in him was, that it was his principle, rather to do three good deeds then talke of one; hee was like a peece well and deeply charg<g ref="char:EOLhyphen"/>ed, you ſhould have ſeene his fire before you had heard his re<g ref="char:EOLhyphen"/>port: I have obſerved that there was no ſuch peece of unhand<g ref="char:EOLhyphen"/>ſomeneſſe in eye, as that of hearing himſelfe praiſed; as knowing the rule of our Saviour, <hi>When thou prayeſt, and giveſt almes, ſhut thy doore, and cover thy hand;</hi> Suppoſing therefore that hee did more good duties then we can know of, we will onely repreſent him in thoſe thing, wherein as a Chriſtian he acted a large and ſtand<g ref="char:EOLhyphen"/>ing part upon the Stage of the World, and that under theſe two heads.</p>
+            <list>
+               <item>Firſt, <hi>In the good that appeared to be in himſelf.</hi>
+               </item>
+               <item>Secondly, <hi>In what it appeared he did good to others.</hi>
+               </item>
+            </list>
+            <p>In the generall for both theſe, he was very eminent, his very preſence was a Schoole of Vertue, his Diſcourſe a Lecture of Wiſedome, and his well-choſen ſilence proportionably uſefull, he would give counſell like a <hi>Divine,</hi> and take it like a <hi>Chriſtian;</hi>
+               <pb n="18" facs="tcp:165872:12"/> as he could not endure any vice ſhould be maſter over him, ſo he loved not that any vicious perſon ſhould be ſervant under him, I have heard him rebuke Vice with great gravitie and ſeveritie; but theſe are but generals.</p>
+            <p>That which will hold forth clearly the good that was in him<g ref="char:EOLhyphen"/>ſelfe, were four particular qualifications wherewith God en<g ref="char:EOLhyphen"/>riched him.</p>
+            <list>
+               <item>1. <hi>His Knowledge.</hi>
+               </item>
+               <item>2. <hi>His Faith.</hi>
+               </item>
+               <item>3. <hi>His Humility.</hi>
+               </item>
+               <item>4. <hi>His Conſtancy.</hi>
+               </item>
+            </list>
+            <p>Firſt, <hi>For his Knowledge,</hi> which was both great, &amp; growing; the firſt appeared by the faire choiſe of his principles in Religion, and in the Worſhip of God, which were alwayes to the moſt ſpirituall; when all the world almoſt had ſwallowed downe thoſe pretty bawbling fooleries wherewith the Biſhops had bai<g ref="char:EOLhyphen"/>ted Religion, he counted them too poore a baite to nible at, he ever thought a Cappe and a Congy a ſorry thing to pleaſe Al<g ref="char:EOLhyphen"/>mighty God with, and his houſe and countenance was ever a Sanctuary and protection to thoſe, on whom the foot of Pride would have trod, if ſome who durſt, as well as deſired, had not ſuccoured them.</p>
+            <p>Then his <hi>Knowledge</hi> was growing, for as God made new diſ<g ref="char:EOLhyphen"/>coveries of truth, he ſtill entertained thoſe bleſſed ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rangers, as knowing that ſo ſome have entertained Angells of light, and therefore he did expreſſely diſallow that ordinary frump of new light, which men caſt upon growing truth, for ſaith he, <hi>we need and we muſt all ſee more, and though the light be old in it ſelfe, yet it is new to us:</hi> A man might very eaſily perceive that his ſpirit was much taken with the glory of theſe latter times, for very many precious diſcoveries, though he knew how to bewaile the diſ<g ref="char:EOLhyphen"/>advantage that the Devill hath caſt in by many foule errors and ſophiſtications.</p>
+            <p>The ſecond peculiar gift of God wherewith hee was enrich<g ref="char:EOLhyphen"/>ed, was his <hi>Faith</hi> and that both of</p>
+            <q>
+               <hi>Adherence</hi> and <hi>Confidence.</hi>
+            </q>
+            <p>For <hi>Faith of Adherence</hi> which advanceth Chriſt alone in point of
+<pb n="19" facs="tcp:165872:12"/> Juſtification, it is the faireſt flower in a Chriſtians Garden; and truly of him who is now gone to receive the fruits of his Faith I muſt needs ſay, that though he had as fair a ſtock of outward righteouſnes as moſt, to have made a cratch to leane on, yet I ne<g ref="char:EOLhyphen"/>ver obſerved him to truſt in the works of the Fleſh, or of the Law, but in the alone mediation of Chriſt Jeſus, and on this account I have heard him to diſallow of the Romiſh Profeſſion, becauſe it obtrudes a thouſand vanities into the Mediatorſhip of Chriſt, and it is very ordinary to find too much of the myſtery of this iniquity every where, for men love naturally to ſet up their <hi>poe<g ref="char:EOLhyphen"/>nates</hi> petty Saviours, and houſhold Saviours, which is the great ſtumbling-block to the Kingdom of Jeſus Chriſt.</p>
+            <p>As for his faith of <hi>confidence,</hi> and truſt in Gods Providence, Power and love; it was very remarkable, it was his ordinary anſwer to them, who through weakneſſe and diſpondency of ſpirit, would charge a good way ſometimes with the fault of a bad ſucceſſe. What man, be not affraid, God will own his own cauſe in due time, and bring it off with credit, and in the mean time he would ſay, let us do our duty, and leave the reſt to God; So well doing wil thrive, and have a reward, when ill do<g ref="char:EOLhyphen"/>ing will ſpeed thereafter, or words to this purpoſe, his confi<g ref="char:EOLhyphen"/>dence of this nature made him of a chearful ſpirit, even when the ſhip he was both ſtearſ-man, and paſſenger in, was in very weake condition, So that like a chearful Pilot, he hath often revived a half dead Paſſenger, when many an unbeleeving lumpiſh Chri<g ref="char:EOLhyphen"/>ſtian puts downe a ſide.</p>
+            <p>The third excellent gift of God wherewith hee was accom<g ref="char:EOLhyphen"/>pliſhed, was <hi>his humility:</hi> None readier to give God the glory of thoſe Victories and Succeſſes which faith had obtained; his ſpirit was very full of ſweetneſſe this way: his thankful heart being a faithfull recorder to God of old and by-paſt mercies which others have left behind them for a nine days wonder; and he was very modeſt and humble in judging of other mens ſpirits, and apprehenſions in things wherein they differed from a com<g ref="char:EOLhyphen"/>mon eſtabliſhment, if he ſpied peace and godlineſſe in the main: He would ever ſay that a joſtling ſpirit of domination was of Antichriſt, and on this account he alwayes diſapproved of the power and pretences of the Prelates, who would take the wall of every mans conſcience; and the leſſe deſire he found in any
+<pb n="20" facs="tcp:165872:13"/> who adminiſter the things of Chriſt, to graſpe after power and rule over mens faith and conſciences the better he loved them, and on this ſcore alſo he was very indulgent to a real tender con<g ref="char:EOLhyphen"/>ſcience, though as great an enemy as any to thoſe wilde exor<g ref="char:EOLhyphen"/>bitancies too rife in the world at this day, yet his expreſſion was in writing to a friend, <hi>that he ſo well loved a tender conſcience, that he would not incommodate it in the least.</hi>
+            </p>
+            <p>4 His <hi>conſtancy</hi> was eminent, the principles he according to judgement received and entertained, he ſtood by; and taſted all waters, and run all hazzards to ſtand by that which he appre<g ref="char:EOLhyphen"/>hended to be neareſt the rule of the word: He was one of the <hi>Calebs</hi> and <hi>Joſhuaes</hi> of our age, who fulfilled after God, and when ſome thought the <hi>Anakims,</hi> and the ſons of the mighty too heavy adverſaries to be dealt withal, &amp; thought rather politick<g ref="char:EOLhyphen"/>ly to compound for a quiet habitation on this ſide <hi>Jordan,</hi> then to venture over for a perfect liberty; and ſought rather to part ſtakes with Prerogative then venture all; he was not diſcou<g ref="char:EOLhyphen"/>raged, but ever truſted in that mighty and everlaſting arme that had ever been too ſtrong for all the powerfull children of violence.</p>
+            <p>The ſecond generall we propounded, to ſpeake to him as a Chriſtian, was the good it appeared he did to others, which argues that goodneſſe was active and ſpiritfull in him, and de<g ref="char:EOLhyphen"/>ſired to walke abroad for the uſe of others—and this was to be ſeen both to ſoule and bodies of others.</p>
+            <p>For the firſt, an ample teſtimony is before the world, in that where-ever he had power and intereſt, he was very care<g ref="char:EOLhyphen"/>full to provide ſuch helpes and guides for the ſoules as might be moſt uſefull, to the faith and ſalvation of the people, it is very well known, that in all thoſe places in his diſpoſe, he planted men of very good reputation, and abilities to preach the Goſ<g ref="char:EOLhyphen"/>pell, and gave proportionable encouragement both for counte<g ref="char:EOLhyphen"/>nance and maintenance; and the aſſurance that the people had of his ſeverity to any known evill, was as good as an uſe of re<g ref="char:EOLhyphen"/>proofe to them, at leaſt a very good advantage in the hand of the Miniſter, to drive home ſuch a naile of the Sanctuary, he was to ſuch good men as lived under his wing and protection, a ſhadow from the heat, and a refuge from the ſtorme of that perſecution, which ſcorched others very ſore; for though the
+<pb n="21" facs="tcp:165872:13"/> times knew he was not too great to cruſh, yet he was too wel be<g ref="char:EOLhyphen"/>loved to provoke.</p>
+            <p>For the good he did to the outward man for others, I need not tell, his workes will praiſe him in the gate; and tell how good a Land-Lord, and benefactor he was, every Tennant, and every poor body will be his Orator, to ſet forth his good<g ref="char:EOLhyphen"/>neſſe of this kind.</p>
+            <p>The third General which I ſhal ſay ſomething of him in, is his <hi>civill capacity, as a Stateſman.</hi>
+            </p>
+            <p>For he had the honor to be much and often entruſted in pub<g ref="char:EOLhyphen"/>lique employment for his Country, and honoured the employment by his dexterity and integrity in it: It hath alwayes been a character of honour to his whole family, that they have been ſingular good Common-wealths-men in their generations, and they have been alwaies accepted accordingly in their Country. This Gentleman whilſt he lived was his Countries darling, and alwaies in her lap, they ever thought that Parliament would not be happy for them, wherof an <hi>Armyne</hi> was not a Member, and ſurely, he was a moſt accompliſhed Senator.</p>
+            <p>His Politiques were ſo juſtly mixed with his integrity, that he was neither <hi>Machivell</hi> nor <hi>Dolobella,</hi> but an <hi>Ariſtides;</hi> his up<g ref="char:EOLhyphen"/>rightneſſe and plaineneſſe of heart, made him abhor the corrupt principles of that florentine; and his wiſdom and activity, made him above that dull <hi>Roman;</hi> but he was an <hi>Ariſtides,</hi> juſt, and diſ<g ref="char:EOLhyphen"/>creet, and diligent. There were three particular excellencies in him, which made him a moſt compleat Stateſ-man.</p>
+            <list>
+               <item>1 <hi>His wiſdome.</hi>
+               </item>
+               <item>2 <hi>His publique ſpirit.</hi>
+               </item>
+               <item>3 <hi>His love to his Country.</hi>
+               </item>
+            </list>
+            <p>Firſt <hi>his wiſdome,</hi> this made him fit to be both ſurveyor and advocate for his Countries liberty, for on the one hand he well knew the Bounders, and Meere-ſtones betwixt rule and liberty, and how to lead and lay the line, and ſtate the caſe.</p>
+            <p>And on the other ſide he was fit to plead his Countries cauſe againſt the intruſions and ſubtilties of her moſt potent and cun<g ref="char:EOLhyphen"/>ing enemies, as well appears by thoſe great Commiſſions, and tranſactions, he was almoſt always one at, both for <hi>England,</hi> and <hi>Scotland,</hi> in which he ever brought off the Cauſe with honour.</p>
+            <p>He would ſo cooly and diſcreetly plead the Cauſe he was in<g ref="char:EOLhyphen"/>gaged
+<pb n="22" facs="tcp:165872:14"/> in, that I have known ſome who were highly diſ-ſatisfi<g ref="char:EOLhyphen"/>ed through ignorance or prejudice with preſent affaires, yet af<g ref="char:EOLhyphen"/>ter diſcourſe with him they have ſaid, <hi>that if they had ſooner met with Sir</hi> Wil. Armyne <hi>they had been ſooner ſatisfied,</hi> and I beleeve his uſe<g ref="char:EOLhyphen"/>fulnes in this kind wil quickly appear, by that great gap which his abſence wil make amongſt our Senators and their Councels.</p>
+            <p>Secondly, <hi>His publique ſpirit,</hi> rendered him very fit for a Stateſ<g ref="char:EOLhyphen"/>man, he was alwaies of too brave a ſpirit to endure vaſſalage, or to ſee his Countries liberty bound to the chaine for a Gally-ſlave, while he could do any thing to releive it; and this made him often ſo really ſeek the advancement of his Countrys inte<g ref="char:EOLhyphen"/>reſt, that he neglected his owne.</p>
+            <p>He was not unlike that brave old Senator <hi>Fabius Maximus,</hi> who when he heard (that morning that <hi>Rome</hi> was to tryumph for a great Victory) that his two ſons were dead, <hi>no matter</hi> (ſaith he) <hi>let Rome ſing, though I ſuffer;</hi> ſo when the common enemy prevail<g ref="char:EOLhyphen"/>ed with a very high hand, and made waſte of all his lands and goods that were in their power, if you had ſeen how patiently and chearfully he bore it for the common good, as I have ſeen by Letters under his hand, you would ſay his ſpirit was very publick, and ſelf-denying, for though now the Commonwealth hath made a handſome farewel of her bargain, yet the time was when all men thought ſhe could never make a drawn match of it to ſave her ſelfe: yet when the ſea was moſt tempeſtuous, and many of the Pilots called for the Cock-boat to ſave themſelves in, he lanched into the deep, in the ſhip called the Common<g ref="char:EOLhyphen"/>wealth, and returned home in her with honour and ſafety, and brought off his own and his Countrys Venture.</p>
+            <p>Thirdly, <hi>His love to his Country,</hi> highly furniſhed him for ſer<g ref="char:EOLhyphen"/>ving of it; by this he was above the corruption of Court-flatte<g ref="char:EOLhyphen"/>ry, who would by all, or any meanes have made him theirs; and when ſome others of principal note for their forwardneſſe in the ſame cauſe, fel back and took the ſcent of the Court per<g ref="char:EOLhyphen"/>fume, and followed it, even then he hunted all one ſcent of his Countrys welfare, and never forſook it: He gave check to Pre<g ref="char:EOLhyphen"/>rogative when we never dreampt of ſuch a game as Paune-mate, yea, even when liberty was an Orphane, and none durſt own it, yet then he, with ſome other brave Worthies appeared for his Country, and became a priſoner for publique liberty as you all
+<pb n="23" facs="tcp:165872:14"/> know. So that in my judgement, Liberty her ſelf deſerves to ſpare him one of her triumphant Banners, wherewith to adorn his Se<g ref="char:EOLhyphen"/>pulchre, for he was one of her dear children, who was bound bo<g ref="char:EOLhyphen"/>dy, for body for her, and all that he had, or ſhe had, gone to Pri<g ref="char:EOLhyphen"/>ſon, without baile or main priſe.</p>
+            <p>I think all <hi>England,</hi> may take up the latter part of <hi>Eliſha's</hi> lamentation for <hi>Elijah,</hi> and ſay, <hi>a horſeman, and a chariot of Iſrael is taken from us:</hi> but <hi>Lincolnſhire</hi> muſt take up the firſt part and ſay, <hi>my father, my father.</hi>
+            </p>
+            <p>I ſhall ſay but one word more to <hi>his publique capacity, as a Stateſ<g ref="char:EOLhyphen"/>man,</hi> and I think it may be ſaid without vanity, that in this reſpect, he was the improvement of the paſt, and praiſe to the preſent, and a pattern to the future generations.</p>
+            <p>The laſt General I ſhal ſpeak to is, a word as to his <hi>private ca<g ref="char:EOLhyphen"/>pacity, as Maſter and Ruler of his Family,</hi> for he was all of a peece, good at home as wel as abroad.</p>
+            <p>He had bin in his time the husband of two wives, both of them Ladys of very great marke for honour, and vertue; The one, is long ſince with Chriſt; the other, he hath now left a deſolate and diſconſolate Widow, who will early and ſorely miſſe the indulgent arme of him to lean on, who was always ready with great prudence, and tender care to ſupport and cheriſh her while ſhe travelled long through a wilderneſſe of griefe and ſorrow for the loſſe of an onely ſon, til now (poor Lady) one terrible wave of griefe hath overtaken another, that if God prevent not, ſhe is like to be ſwallowed up of ſorrow. I dare ſay, her teares will plentifully tel that he was a loving husband.</p>
+            <p>I might ſay much how deare and diſcreet a Father he was to his Children, but it may be it will be more proper to lay my finger on the orifice of this ſore, leaſt I make thoſe wounds of ſorrow bleed a freſh, which have bled too much already; I will onely ſay thus much, that I ſhall ever hope the World ſhall ſee that the fruits of vertue which the branches of his Poſterity ſhal beare, will make it appeare to the world, that the dew of Hea<g ref="char:EOLhyphen"/>ven watered the root, and that he was carefull as well to main<g ref="char:EOLhyphen"/>taine a hopeful nurſery of vertue in his Children, as an abundant fruit-yard in his owne converſation.</p>
+            <p>Laſtly, how ingenuouſly faithfull he was to his friend, I will leave them to tell, who will hereafter more ſenſibly feele the
+<pb n="24" facs="tcp:165872:15"/> blow that death hath given them, on the heart ſide by his loſſe, then now at preſent; he was incomparably courteous, diſcreet, and uſefull, ſo that they who did not arrive at his friendſhip, could by no meanes count him an enemie.</p>
+            <p>Now I had beſt draw the curtaine here, for the further wee goe, wee doe but increaſe the number of our loſſes, and Deaths ſpoiles.</p>
+            <p>
+               <hi>I have ſaid a little, and it may be many of you will ſay, you could have ſaid more, and ſo could I, and he deſerved it; but time would faile, and I intend this onely as an inſcription to his memory, not as an hyſtory of his life,</hi>
+            </p>
+            <p>
+               <hi>It now remaines only, that we turn our lamentations into prayer, that God would make his worth and vertue golden ſpurs to us, to walke in the ſame path, that when we have ſought our good fight of faith, and finiſh<g ref="char:EOLhyphen"/>ed our courſe, we may as</hi>
+            </p>
+            <p>He enter into peace and reſt in our beds, each one walking in his uprightneſſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
